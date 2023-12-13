@@ -18,11 +18,7 @@ Brex offers a more holistic approach to their services. Ramp, their main competi
 
 ## Landscape
 
-* What domain of the financial industry is the company in?
-
-* What have been the major trends and innovations of this domain over the last 5–10 years?
-
-* What are the other major companies in this domain?
+Brex mainly participates in the enterprise solutions domain but has a presence in the open banking domain as well. Brex is not a chartered bank so it works with several banks to keep deposits in "money market and/or FDIC-insured accounts" such as JP Morgan (Forbes). According to MasterCard, "global fintech venture capital funding [saw] a 38% year-over-year decrease in the second half of 2022," which signals tightening and a shift in metrics and trends. The first is "shifting to sustainable business models" (MasterCard). Attracting the most amount of customers is no longer the goal. Now companies must hone in on a niche and really define the market they want to serve. This is exactly what happened to Brex and why they dropped small businesses. Another trend is the drive to create super-apps that provide a one-stop-shop environment for customers. In other words, a single service provider can handle most, if not all, the needs of their customers. From a business enterprise standpoint, Brex is on this trend by providing banking solutions and handling expenses in an automated fashion. Brex allows synchronization with QuickBooks and Expensify, for example. Some of the major players in the enterprise solutions domain include Microsoft, Oracle, Salesforce, and IBM.
 
 
 ## Results
