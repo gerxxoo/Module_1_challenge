@@ -9,13 +9,11 @@ Brex is an online banking company that offers a small variety of critical busine
 
 ## Business Activities
 
-* What specific financial problem is the company or project trying to solve?
+Brex began with the goal to provide comprehensible online banking for copmanies and coporations. After realizing that it is better suited to provide credit card services, Brex saw an opportunity. The company could already see where speding was taking place, so it integrated a cost management system. The data Brex collects allows its users to make better business decisions and "manage the the spending of scaling enterprise" (Bloomberg). PitchBook explains, "The company's offering eliminates the need to supply social security numbers or credit scores and is supported by an integrated software suite that reduces employee time spent on cost management, accounting, and budgeting, enabling entrepreneurs to protect their personal credit without restricting their capital." 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+Brex's inteded customers were intially businesses of all sizes and maturities. In December of 2021, the copmany decided to focus on startups with institutional investor-backing or classified as midmarket and drop small businesses. Companies across the board suffered instensely in 2020; companies were forced to focus on profitability. This caused Brex's customer service lines to be bombarded including calls from "several of Brex’s largest clients...asking for solutions to assist them manage costs and hire less expensive foreign staff" (EnvZone). 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
+Brex offers a more holistic approach to their services. Ramp, their main competitor, offers corporate cards, expense management, and vendor management, but Brex also offers business travel management with integrated online booking and event management. Navan is a copmetitor that offers travel management but focuses in this space. Another major selling point for Brex is its artificial intelligence software. This can answer simple questions such as what the spending limit is or can help with certain operations and policy compliance. A client employee can book a flight and have Brex Assistant send a push notification with the policies to follow. If a dinner took place during the event, for example, Brex Assistant will autopopulate a receipt with the data gathered from the transaction and will even formulate a relevant memo to attach to the transaction. This is a way that Brex saves their clients time via automation. The technologies that allow Brex to provide services like these include React, Amazon S3, Amazon Web Services, Amazon CloudFront, and Gatsby.
 
 
 ## Landscape
