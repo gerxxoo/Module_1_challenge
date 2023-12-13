@@ -23,11 +23,9 @@ Brex mainly participates in the enterprise solutions domain but has a presence i
 
 ## Results
 
-* What has been the business impact of this company so far?
+Brex is impacting its customers positively, and it shows in their success. Josh Pickles from DoorDash states, "Traditional expense management requires you to chase money after it's been spent. Brex enables you to do the opposite — we’re clear about how money is being spent from the get-go" (Brex). Brex claims to save companies up to 250 hours per year with their automation services. These hours saved translate to up to an average of $24,000 saved in salary. Employees and managers are saving an average of up to 4,000 hours per year in compliance efforts. This amounts to up to $250,000 in saved in salary spent on compliance. If customers follow Brex's best practices, clients can achieve a 99% compliance rate. Such performance has boosted Brex's metrics. Gross profit has grown 80% year-over-year due to card revenue, deposit spread revenue, and Empower revenue; in fact, "Empower, the company’s software product, has seen revenue growth of nearly 50% this year" (TechCrunch). 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
+Ramp helped Beyond reconsiliate eight times faster, saving them six hours per month. They helped Glossier save hours per week expense management and accounting automation. First Tee uses PwC Bookkeeping Connect and sees a decrease of 75% from about an hour to fifteen minutes.
 
 
 ## Recommendations
@@ -39,3 +37,48 @@ Brex mainly participates in the enterprise solutions domain but has a presence i
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## Sources
+
+How Brex customers are driving compliance while saving 4,000 hours a year.
+https://www.brex.com/journal/brex-customers-are-driving-compliance
+
+Customer Stories (Ramp)
+https://ramp.com/customers#
+
+Inside Brex and Ramp’s AI ambitions
+https://techcrunch.com/2023/11/19/fintech-startups-brex-ramp-look-to-ai-to-boost-bottom-line/#:~:text=Year%2Dto%2Ddate%2C%20three,this%20year%2C%20according%20to%20Brex.
+
+Pulse of the industry: A look at emerging trends in fintech
+https://www.mastercardservices.com/en/advisors/data-strategy-analytics/insights/pulse-industry-look-emerging-trends-fintech#:~:text=Embracing%20and%20adopting&text=Intrinsically%2C%20traditional%20needs%20%E2%80%94%20like%20lending,quick%20to%20market%20is%20massive.
+
+Brex Stackshare
+https://stackshare.io/brex/brex
+
+BREX VS RAMP - WHICH CARD IS BEST FOR STARTUPS?
+https://kruzeconsulting.com/blog/brex-vs-ramp/
+
+Ramp vs Brex
+https://ramp.com/versus/brex
+
+Brex PitchBook
+https://pitchbook.com/profiles/company/226102-87#overview
+
+How 26-Year-Old Founders of Brex Shaped a Billion-Dollar Fintech Empire
+https://envzone.com/how-26-year-old-founders-of-brex-shaped-a-billion-dollar-fintech-empire/
+
+Two Friends Who Met On Twitter In High School Are Latest Under-30 Billionaires
+https://www.forbes.com/sites/elizahaverstock/2022/01/14/two-friends-who-met-on-twitter-in-high-school-are-latest-under-30-billionaires/?sh=6a93628e8338
+
+Brex Bloomberg
+https://www.bloomberg.com/profile/company/1628457D:US
+
+Brex Forbes
+https://www.forbes.com/companies/brex/?sh=75b7eb536acf
+
+Brex CrunchBase
+https://www.crunchbase.com/organization/brex
+
+Brex AI
+https://www.brex.com/platform/brex-ai
+
