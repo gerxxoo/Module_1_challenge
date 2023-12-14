@@ -30,9 +30,9 @@ Ramp helped Beyond reconsiliate eight times faster, saving them six hours per mo
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+I believe that adding a CRM system would be extremely useful. My idea is to use the CRM system as a foundation to track income since Brex already tracks expenses. Brex's clients' sales teams can use the CRM system to keep track of new and closed sales. The sales can begin to autopopulate a pro forma income statement via Brex AI. The artificial intelligence may even be able to point out inefficiencies or bottlenecks. For example, a product-based client may find Brex AI helpful with identifying how much loss is occurring due to damaged products having to be replaced. Business leaders can focus on proofreading the financial statements and driving their businesses forward. 
 
-* Why do you think that offering this product or service would benefit the company?
+Offering this product can benefit Brex because the company can gradually become the hub of business operations for its clients. Brex will essentially be building an ecosystem offering automation in the financial and accounting department. The idea is akin to the ecosystem Apple provides. iPhones are essentially an extension of MacBooks and iPads. Apple watches are an extension of iPhones. Even Air Pods work seamlessly across alll devices. The idea is similar. Brex can create an ecosystem that automates and provides unmatched efficiency for their clients to a point where their clients don't want to leave. Of course there will be other options to compete with Brex just as Apple has competitors, but a complete and efficient ecosystem that just works is the true selling point. 
 
 * What technologies would this additional product or service utilize?
 
