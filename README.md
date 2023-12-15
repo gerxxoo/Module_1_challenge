@@ -34,9 +34,7 @@ I believe that adding a CRM system would be extremely useful. My idea is to use 
 
 Offering this product can benefit Brex because the company can gradually become the hub of business operations for its clients. Brex will essentially be building an ecosystem offering automation in the financial and accounting department. The idea is akin to the ecosystem Apple provides. iPhones are essentially an extension of MacBooks and iPads. Apple watches are an extension of iPhones. Even Air Pods work seamlessly across alll devices. The idea is similar. Brex can create an ecosystem that automates and provides unmatched efficiency for their clients to a point where their clients don't want to leave. Of course there will be other options to compete with Brex just as Apple has competitors, but a complete and efficient ecosystem that just works is the true selling point. 
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+In this case, Brex would not need to invest in any new technologies. All they are doing is taking on the income stance of what they already do tracking expenses. Brex can still use Amazon Web Services to do its cloud computing and use Amazon S3 as its scalable storage infrstructure. Amazon CloudFront is also still a viable solution to store Brex's bulky files like the data collected from the CRM system that will allow for Brex AI to pull from. At the end of the day, Brex would not be reinventing the wheel, but rather finding a better use for it.
 
 ## Sources
 
